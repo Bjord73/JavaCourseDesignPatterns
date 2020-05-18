@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9298dd7-0d7c-41b6-b282-7fdbfbe6a438" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Course Design Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/base/AbstractBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/base/AbstractMountainBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/base/AbstractRoadBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/base/AbstractWheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/base/BikeInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/base/CrossCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/base/DownHill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/base/NarrowWheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/base/Touring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/base/Vintage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/base/WheelInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/base/WideWheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/java/BikeColor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c5JrMySxiaLmc4WW7I37werD0b" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.patterns.java.Main" />
+      <module name="Java Course Design Patterns" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9298dd7-0d7c-41b6-b282-7fdbfbe6a438" name="Default Changelist" comment="" />
+      <created>1589812718802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589812718802</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="SettingsEditor" timestamp="1589813058203">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589813058203" />
+    <state x="-21" y="154" key="run.anything.popup" timestamp="1589824051365">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-21" y="154" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1589824051365" />
+  </component>
+</project>
