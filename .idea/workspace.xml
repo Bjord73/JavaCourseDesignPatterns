@@ -2,38 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9298dd7-0d7c-41b6-b282-7fdbfbe6a438" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/abstractfactory/AbstractBikeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/abstractfactory/BikeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/abstractfactory/BikeFrameInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/abstractfactory/BikeSeatInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/abstractfactory/MountainBikeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/abstractfactory/MountainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/abstractfactory/MountainSeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/abstractfactory/RoadBikeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/abstractfactory/RoadFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/abstractfactory/RoadSeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/adapter/UltraWheel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/adapter/UltraWheelAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/builder/AbstractBikeBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/builder/AbstractBikeDirector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/builder/MountainBikeDirector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/builder/MoutainBikeBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/builder/RoadBikeBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/builder/RoadBikeDirector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/decorator/AbstractBikeOption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/decorator/CustomGripsOption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/decorator/GoldFrameOption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/decorator/LeatherSeatOption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/decorator/WhiteTireOption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/facade/BikeFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/facade/Documentation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/facade/Registration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/singleton/SerialNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/iterator/MountainBikeRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/iterator/RoadBikeRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/iterator/iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/observer/GearBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/observer/SpeedMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/observer/Speedometer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/observer2/BikeGearBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/observer2/BikeSpeedometer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/observer2/BikesSpeedMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/observer2/SpeedometerEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/observer2/SpeedometerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/visitor/Bearings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/visitor/Spokes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/visitor/VisitableInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/visitor/WheelDiagnostics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/visitor/WheelInventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/visitor/WheelVisitorInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/patterns/base/AbstractBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patterns/base/AbstractBike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/patterns/base/BikeInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patterns/base/BikeInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/patterns/java/BikeColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patterns/java/BikeColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/patterns/base/AbstractWheel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patterns/base/AbstractWheel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/patterns/base/WheelInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patterns/base/WheelInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/patterns/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patterns/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,33 +87,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="601" height="156" key="GridCell.Tab.0.bottom" timestamp="1589997888011">
+    <state x="129" y="44" key="#com.intellij.ide.util.MemberChooser" timestamp="1590088281776">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="601" height="156" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589997888011" />
-    <state width="601" height="156" key="GridCell.Tab.0.center" timestamp="1589997888007">
+    <state x="129" y="44" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1590088281776" />
+    <state width="589" height="153" key="GridCell.Tab.0.bottom" timestamp="1590088368541">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="601" height="156" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589997888007" />
-    <state width="601" height="156" key="GridCell.Tab.0.left" timestamp="1589997888004">
+    <state width="589" height="153" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590088368541" />
+    <state width="589" height="153" key="GridCell.Tab.0.center" timestamp="1590088368541">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="601" height="156" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589997888004" />
-    <state width="601" height="156" key="GridCell.Tab.0.right" timestamp="1589997888009">
+    <state width="589" height="153" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590088368541" />
+    <state width="589" height="153" key="GridCell.Tab.0.left" timestamp="1590088368541">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="601" height="156" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589997888009" />
+    <state width="589" height="153" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590088368541" />
+    <state width="589" height="153" key="GridCell.Tab.0.right" timestamp="1590088368541">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="589" height="153" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590088368541" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1589813058203">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589813058203" />
+    <state x="0" y="0" key="new project wizard" timestamp="1590070931239">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1590070931239" />
     <state x="933" y="188" key="refactoring.ChangeSignatureDialog" timestamp="1589992908411">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="933" y="188" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1589992908411" />
-    <state x="-21" y="154" key="run.anything.popup" timestamp="1589824051365">
+    <state x="-1" y="153" key="run.anything.popup" timestamp="1590083532175">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="-21" y="154" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1589824051365" />
+    <state x="-1" y="153" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1590083532175" />
   </component>
 </project>
